@@ -1,5 +1,9 @@
 # MyExporter
 
+Simple example showing a prometheus exporter written in elixir. Accompanied by blog post at https://delago.dev/posts/prometheus_exporters.html
+
+##
+
 To start your Phoenix server:
 
   * Install dependencies with `mix deps.get`
